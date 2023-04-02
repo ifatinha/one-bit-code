@@ -1,2 +1,2 @@
 # OneBitCode
-Exercises that took place during the Javascript Fullstack course by OneBitCode
+Javascript module exercises done during OneBitCode's Javascript Fullstack course
