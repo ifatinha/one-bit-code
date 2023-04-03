@@ -7,11 +7,11 @@ class Product {
         this.inStock = 0;
     }
 
-    addStock = (quantity) => {
+    addStock(quantity) {
         return (this.inStock += quantity);
     }
 
-    calculateDiscount = (percentagem) => {
+    calculateDiscount(percentagem) {
         return this.price = this.price - ((this.price * percentagem) / 100);
     }
 }
